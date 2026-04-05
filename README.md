@@ -2,7 +2,7 @@
 
 A modern, cross-platform messenger application built with .NET MAUI, following the MVVM pattern with dependency injection.
 
-![Chat App](images/chatapp-maui.png)
+
 
 Based on this [design](https://dribbble.com/shots/11470136-A-Messaging-App-Concept) by [Tannaz Sadeghi](https://dribbble.com/tannazsadeghi).
 
